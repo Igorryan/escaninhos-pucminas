@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+@media print {
+    body * {
+        visibility: hidden;
+    }
+
+    #desbloquearModal,
+    #desbloquearModal * {
+        visibility: visible;
+    }
+}
+
+.escaninhoOcupado {
+    background-color: rgba(50, 205, 99, .3);
+}
+
+.escaninhoRenovar {
+    background-color: rgba(158, 158, 158, .3);
+}
+
+.escaninhoLiberado {
+    background-color: rgba(158, 158, 158, .1);
+}
+
+.escaninhoDefeito {
+    background-color: rgba(248, 156, 160, .9);
+}
+
+.titleAndar {
+    text-align: center;
+    float: right;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.infos {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.optionsDiv{
+
+}
+
+.card {
+margin: 0px;
+    width: 100%;
+}
+
+.main {
+
+}
+
+.nome {
+    color: black;
+}
+
+.matricula {
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    box-shadow: 1px 1px 2px 3px rgba(0, 0, 0, .1);
+    font-family: 'Poppins', sans-serif;
+}
+
+.cont {
+    width: 230px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.nav-tabs-navigation {
+    margin: 0px;
+    padding: 0px;
+    width: 300px;
+}
+
+.nav-tabs {
+    margin: 0px;
+    padding: 0px;
+    padding-left: 10px;
+}
+
+.escani {
+    cursor: pointer;
+}
+
+.titleAndar {
+    width: 100%;
+}
+
+#alunoEsc {
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+    box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, .1);
+}
+
+#alunoEsc option {
+
+    border: none;
+
+}
+
+.andar_div {
+    box-shadow: 1px 2px 2px 1px rgba(0, 0, 0, .3);
+    padding: 0px;
+    margin-bottom: 10px;
+}
+
+.containerIncluir {
+    padding-left: 11px;
+    padding-right: 11px;
+    margin: 0px;
+    box-shadow: 0px 0px 1px 2px rgba(0, 0, 0, .1)
+}
+
+.incluirNotificacao {
+    color: crimson;
+    font-weight: 900;
+}
