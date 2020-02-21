@@ -9,7 +9,6 @@
 <h2>:round_pushpin: Problema:</h2>
 
 <p>Basicamente, a cada semestre, a secretaria do curso de Medicina Veterinária precisava atualizar o controle dos escaninhos disponibilizados para os alunos.</p> 
-<br>
 
 Para manter o controle, a cada semestre, era necessário:<br> 
 
