@@ -27,9 +27,8 @@
 
 <h4>Screenshots das telas:</h4>
 <img src="img/2.png">
-> Acesso do aluno
+>Acesso do aluno
 <img src="img/4.png">
-> Acesso administrativo
-<br>
-<img src="img/1.png">
-> Foto com Gustavo Verine, auxiliar de infra-estrutura.
+>Acesso administrativo<br><br>
+<img width="350px" src="img/1.png"><br>
+>Foto com Gustavo Verine, auxiliar de infra-estrutura e apoio intelectual para o sucesso do projeto.
