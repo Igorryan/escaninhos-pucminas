@@ -15,7 +15,6 @@
 - Notificação de bloqueio e desbloqueio;
 - Realocação automática; 
 - Estátisticas.</p>
-<br>
 
 <h4>Tecnologias utilizadas:</h4>
 
@@ -23,9 +22,11 @@
 - Framework Material Design (template);
 - Google Firebase;
 - QR Code.
-<br>
 
 <h4>Screenshots das telas:</h4>
 <video width="320" height="240" controls>
   <source src="img/escaninhos.mp4" type="video/mp4">
 </video>
+<img src="img/2.png">
+<img src="img/4.png">
+<img align="center" width="350px" src="img/1.png">
