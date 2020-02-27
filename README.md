@@ -3,12 +3,12 @@
 </h3>
 
 <h1 align="center">Plataforma dos Escaninhos</h1>
-<p align="center">A plataforma dos escaninhos foi desenvolvida para auxiliar e otimizar o gerenciamento dos compartimentos disponibizados aos alunos do curso de Medicina Veterinária - PUC Praça da Liberdade.</p><br>
+<p align="center">A plataforma dos escaninhos foi desenvolvida para auxiliar e otimizar o gerenciamento dos compartimentos disponibilizados aos alunos do curso de Medicina Veterinária - PUC Praça da Liberdade.</p><br>
 
-<h4>Funcionalidades</h4>
+<h4>Funcionalidades implementadas</h4>
 <p>
 
-- Representação dos compartimentos e seus relacionamentos; 
+- Representação dos compartimentos e seus relacionamentos para o aluno e administrador; 
 - Solicitação de inclusão, remoção e troca de escaninhos;
 - Renovação semestral; 
 - Indicação de defeitos;
@@ -26,3 +26,10 @@
 <br>
 
 <h4>Screenshots das telas:</h4>
+<img src="img/2.png">
+> Acesso do aluno
+<img src="img/4.png">
+> Acesso administrativo
+<br>
+<img src="img/1.png">
+> Foto com Gustavo Verine, auxiliar de infra-estrutura.
