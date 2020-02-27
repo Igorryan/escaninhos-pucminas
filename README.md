@@ -3,20 +3,33 @@
 </h3>
 
 <h1 align="center">Plataforma dos Escaninhos</h1>
+<p align="center">A plataforma dos escaninhos foi desenvolvida para auxiliar e otimizar o gerenciamento dos compartimentos disponibilizados aos alunos do curso de Medicina Veterinária - PUC Praça da Liberdade.</p><br>
 
-<p align="center">A plataforma dos escaninhos foi desenvolvida para resolver um problema do setor que administra o curso de Medicina Veterinária da PUC Praça da Liberdade.</p><br>
+<h4>Funcionalidades implementadas</h4>
+<p>
 
-<h2>:round_pushpin: Problema:</h2>
+- Representação dos compartimentos e seus relacionamentos para o aluno e administrador; 
+- Solicitação de inclusão, remoção e troca de escaninhos;
+- Renovação semestral; 
+- Indicação de defeitos;
+- Notificação de bloqueio e desbloqueio;
+- Realocação automática; 
+- Estátisticas.</p>
+<br>
 
-<p>Basicamente, a cada semestre, a secretaria do curso de Medicina Veterinária precisava atualizar o controle dos escaninhos disponibilizados para os alunos.</p> 
+<h4>Tecnologias utilizadas:</h4>
 
-Para manter o controle, a cada semestre, era necessário:<br> 
+- HTML / CSS / JavaScript;
+- Framework Material Design (template);
+- Google Firebase;
+- QR Code.
+<br>
 
-- Que o aluno renovasse o seu escaninho, caso queira continuar utilizando-o. Para isso, cada aluno deveria ir presencialmente ao setor.<br>
-- Saber quais escaninhos estavam abandonados por alunos não matriculados ou formados. Para isso, era necessário verificar mais de 300 números de matrícula, manualmente. <br>
-- Quais escaninhos apresentavam defeitos.<br>
-- Criar uma fila de espera e armazenar os alunos por ordem de pedido. 
-
-<p>Análisar compartimento um a um para capturar estado e ocupação, verificar a situação matricular de mais de 300 alunos manualmente e aguardar a presença dos estudantes à secretaria para efetivar a renovação era um processo exaustivo e demandava bastante tempo. Além de desviar a atenção dos funcionários para atender estas demandas, desconcentrando-o de sua atual tarefa cerca de em média 15 vezes ao dia em periodos calmos e 23 vezes ao dia nas primeiras semanas de matricula e aulas (Estátistica obtida atráves de observação de um período de 4 semanas).</p>
-
-<h2>:heavy_check_mark: Solução:</h2>
+<h4>Screenshots das telas:</h4>
+<img src="img/2.png">
+> Acesso do aluno
+<img src="img/4.png">
+> Acesso administrativo
+<br>
+<img src="img/1.png">
+> Foto com Gustavo Verine, auxiliar de infra-estrutura.
