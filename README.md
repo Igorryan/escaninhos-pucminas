@@ -15,7 +15,6 @@
 - Notificação de bloqueio e desbloqueio;
 - Realocação automática; 
 - Estátisticas.</p>
-<br>
 
 <h4>Tecnologias utilizadas:</h4>
 
@@ -23,12 +22,11 @@
 - Framework Material Design (template);
 - Google Firebase;
 - QR Code.
-<br>
 
 <h4>Screenshots das telas:</h4>
 <img src="img/2.png">
 >Acesso do aluno
 <img src="img/4.png">
->Acesso administrativo<br><br>
-<img width="350px" src="img/1.png"><br>
+>Acesso administrativo
+<img width="350px" src="img/1.png">
 >Foto com Gustavo Verine, auxiliar de infra-estrutura e apoio intelectual para o sucesso do projeto.
