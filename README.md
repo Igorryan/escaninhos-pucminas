@@ -26,9 +26,6 @@
 <br>
 
 <h4>Screenshots das telas:</h4>
-<img src="img/2.png">
->Acesso do aluno
-<img src="img/4.png">
->Acesso administrativo<br><br>
-<img width="350px" src="img/1.png"><br>
->Foto com Gustavo Verine, auxiliar de infra-estrutura e apoio intelectual para o sucesso do projeto.
+<video width="320" height="240" controls>
+  <source src="img/escaninhos.mp4" type="video/mp4">
+</video>
