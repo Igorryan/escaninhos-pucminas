@@ -3,7 +3,7 @@
 </h3>
 
 <h1 align="center">Plataforma dos Escaninhos</h1>
-<p align="center">A plataforma dos escaninhos foi desenvolvida para auxiliar e otimizar o gerenciamento dos compartimentos disponibilizados aos alunos do curso de Medicina Veterinária - PUC Praça da Liberdade. Além de ter sido meu primeiro projeto publicado.</p>
+<p align="center">A plataforma dos escaninhos foi desenvolvida para auxiliar e otimizar o gerenciamento dos compartimentos disponibilizados aos alunos. Além de ter sido meu primeiro projeto publicado.</p>
 
 <a href="https://youtu.be/omsPSC1DbAI"> View User Experience and Design in Youtube.</a><br>
 
