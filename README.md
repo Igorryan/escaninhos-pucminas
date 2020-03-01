@@ -4,7 +4,8 @@
 
 <h1 align="center">Plataforma dos Escaninhos</h1>
 <p align="center">A plataforma dos escaninhos foi desenvolvida para auxiliar e otimizar o gerenciamento dos compartimentos disponibilizados aos alunos do curso de Medicina Veterinária - PUC Praça da Liberdade. Além de ter sido meu primeiro projeto publicado.</p>
-<a href="https://youtu.be/omsPSC1DbAI">:movie_camera: View User Experience and Design.</a><br>
+<font size="2">:movie_camera:</font><a href="https://youtu.be/omsPSC1DbAI"> View User Experience and Design.</a><br>
+
 ### Implementação
 
 Abaixo estão descritas as funcionalidades implementadas.
@@ -41,7 +42,7 @@ Abaixo estão descritas as funcionalidades implementadas.
 
 <img src="img/2.png">
 <img src="img/4.png">
-<br><br>
+<br>
 
 <p><i>- Foto com Gustavo Verine, na época, auxiliar de infraestrutura e colega de trabalho, cliente direto do projeto:</p>
 <img width="380px" src="img/1.png">
