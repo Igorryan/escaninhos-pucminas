@@ -5,7 +5,7 @@
 <h1 align="center">Plataforma dos Escaninhos</h1>
 <p align="center">A plataforma dos escaninhos foi desenvolvida para auxiliar e otimizar o gerenciamento dos compartimentos disponibilizados aos alunos. Além de ter sido meu primeiro projeto publicado.</p>
 
-<a href="https://youtu.be/omsPSC1DbAI"> View User Experience and Design on Youtube.</a><br>
+<a target="_blank" href="https://youtu.be/omsPSC1DbAI"> View User Experience and Design on Youtube.</a><br>
 
 ### Implementação
 
@@ -40,11 +40,11 @@ Abaixo estão descritas as funcionalidades implementadas.
 
 ### Screenshots das telas
 
-Interface do aluno <a href="https://youtu.be/omsPSC1DbAI"> View User Experience and Design on Youtube.</a><br>
+Interface do aluno <a target="_blank" href="https://youtu.be/omsPSC1DbAI"> View User Experience and Design on Youtube.</a><br>
 
 <img src="img/2.png">
 
-Plataforma do administrador <a href="https://youtu.be/omsPSC1DbAI"> View User Experience and Design on Youtube.</a><br>
+Plataforma do administrador <a target="_blank" href="https://youtu.be/omsPSC1DbAI"> View User Experience and Design on Youtube.</a><br>
 
 <img src="img/4.png">
 
