@@ -30,7 +30,6 @@ Abaixo estão descritas as funcionalidades implementadas.
 | Trocar| Envia uma solicitação de troca. |
 | Abandonar| Abandona o compartimento.|
 | Exibir | Por padrão, o compartimento é exibido caso o aluno possua um.|
-<br>
 
 ### Tecnologias utilizadas
 
