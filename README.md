@@ -13,7 +13,7 @@ Abaixo estão descritas as funcionalidades implementadas.
 
 | Funcionalidades administrador | Propósito |
 | ------ | ------ |
-| Inclusões | A cor do botão indica se há solicitações de inclusão pendentes, quando acionado, exibe as solicitações. |
+| Verificar inclusões | A cor do botão indica se há solicitações de inclusão pendentes, quando acionado, exibe as solicitações. |
 | Ativar renovação | Reinicia todos os relacionamentos entre compartimento e respectivo aluno, permitindo que o antigo proprietário efetive a renovação, garantindo novamente o compartimento para o semestre vigente. Caso o aluno não renove, o compartimento é liberado. |
 | Incluir aluno | Relaciona um aluno a um compartimento. |
 | Pesquisar | Busca um compartimento, a partir de um número de matricula. |
