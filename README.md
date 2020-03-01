@@ -42,5 +42,8 @@ Abaixo estão descritas as funcionalidades implementadas.
 
 <img src="img/2.png">
 <img src="img/4.png">
+
+-------
+
 <h6 align="center"><img width="390px" src="img/1.png"></h6>
 <p align="center"><i>Foto com Gustavo Verine, na época, auxiliar de infraestrutura e colega de trabalho, cliente direto do projeto.</p>
