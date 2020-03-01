@@ -46,4 +46,4 @@ Abaixo estão descritas as funcionalidades implementadas.
 -------
 
 <h6 align="center"><img width="390px" src="img/1.png"></h6>
-<p align="center"><i>Foto com Gustavo Verine, na época, auxiliar de infraestrutura e colega de trabalho, cliente direto do projeto.</p>
+<p align="center"><i>Foto com Gustavo Verine, na época, auxiliar de infraestrutura e colega de trabalho, além de ter sido o principal cliente do projeto. Era função dele verificar compartimento um a um, fazendo uma "varredura" afim de verificar o estado, disponibilidade e relação. E função do aluno, ir até a secretária para registrar, renovar, trocar e abandonar um compartimento.</p>
