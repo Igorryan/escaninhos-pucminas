@@ -50,7 +50,7 @@ Plataforma do administrador <a href="https://youtu.be/omsPSC1DbAI" target="_blan
 
 -------
 
-<h6 align="center"><img width="390px" src="img/1.png"></h6>
+<h6 align="center"><img src="img/1.png"></h6>
 <p align="center"><i>Estou à direita de Gustavo Verine, na época, auxiliar de infraestrutura e colega de trabalho, além de ter sido o principal cliente do projeto.</i></p>
 
 <p align="center"><i>Era função dele verificar compartimento um a um, fazendo uma "varredura" afim de coletar o estado, a disponibilidade e a relação. E função do aluno, ir até a secretária para registrar, renovar, trocar e abandonar um compartimento.</i></p>
